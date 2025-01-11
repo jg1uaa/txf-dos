@@ -3,7 +3,7 @@
 ---
 ## Description
 
-A simple file transfer program for private LAN.
+A simple file transfer program for serial connection.
 
 
 ## Usage
