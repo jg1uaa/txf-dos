@@ -11,7 +11,7 @@ A simple file transfer program for serial connection.
 ```
 A:\>txf
 usage:  A:\TXF.EXE -s [speed] -l [com1-4]
-        A:\TXF.EXR -s [speed] -l [com1-4] -f [filename]
+        A:\TXF.EXE -s [speed] -l [com1-4] -f [filename]
 A:\>
 ```
 
